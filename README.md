@@ -1,5 +1,5 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//app.py)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/drive/1HH86l2-F3ahl_hWr7X2Kw8TFsoHWZRGa#scrollTo=Ng3rJxpCHiTJ](https://colab.research.google.com/drive/1TnOKW-s2A80-4t0EJdlgpUbv05cdeJjj)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TnOKW-s2A80-4t0EJdlgpUbv05cdeJjj)]
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green) ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ArmandoSaboia/banking_marketing)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ArmandoSaboia/banking_marketing)
