@@ -5,8 +5,6 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ArmandoSaboia/banking_marketing)
 ![GitHub contributors](https://img.shields.io/github/contributors/ArmandoSaboia/banking_marketing)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//app.py)
-
 # Diagnosis Wizard
 
 Let's dive into a scenario where we use Naive Bayes to help doctors diagnose whether a patient might have a certain medical condition based on their symptoms.
