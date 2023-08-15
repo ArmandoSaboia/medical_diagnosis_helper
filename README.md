@@ -1,4 +1,6 @@
-#Let's dive into a scenario where we use Naive Bayes to help doctors diagnose whether a patient might have a certain medical condition based on their symptoms.
+# Diagnosis Wizard
+
+Let's dive into a scenario where we use Naive Bayes to help doctors diagnose whether a patient might have a certain medical condition based on their symptoms.
 
 🤖 Meet the Diagnosis Wizard: Picture an AI buddy that listens to symptoms and suggests potential diagnoses. It's like having a medical detective right on your screen, thanks to Naive Bayes! 
 
