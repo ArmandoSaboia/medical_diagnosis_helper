@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicaldiagnosis.streamlit.app/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TnOKW-s2A80-4t0EJdlgpUbv05cdeJjj#scrollTo=fUwNbpsdjEFk)
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green) ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ArmandoSaboia/medical_diagnosis_helper)
